@@ -13,7 +13,7 @@
 </div>
 
 ### :man_technologist: About Me :
-<div>I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russian</div>
+<div>I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia</div>
 <div>I devote all my free time to programming and learning new technologies.</div>
 
 ### :hammer_and_wrench: Languages and Tools :
